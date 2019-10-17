@@ -11,7 +11,7 @@ It only makes 1 rest call per second because the hue bridge is pretty slow, and 
 
 
 # Philips did hear us
-They introduced this as a standalone package which you can buy for money. Find more infos here:
+They introduced "this" as a standalone package which you can buy for money.It will passthrough your HDMI signals for 4 devices, read the color information there and send it to your hue bridge. Find more infos here:
 [Hue Play HDMI Sync Box](https://www2.meethue.com/de-de/p/hue-play-hdmi-sync-box/8718699704803)
 
 
