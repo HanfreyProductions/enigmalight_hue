@@ -1,4 +1,11 @@
-# Philips Hue Ambilight Clone with Enigmalight and this script.
+# Philips did hear us
+They introduced "this" as a standalone package which you can buy for money.It will passthrough your HDMI signals for 4 devices, read the color information there and send it to your hue bridge. Find more infos here:
+[Hue Play HDMI Sync Box](https://www2.meethue.com/de-de/p/hue-play-hdmi-sync-box/8718699704803)
+
+More or less will this be a better plug and play solution. And its available for a "cheap" price for 250euros...
+
+
+## Philips Hue Ambilight Clone with Enigmalight and this script.
 
 
 Many thanks to [Krannich Hausautomation](http://blog.krannich.de/2015/12/ambilight-mit-enigmalight-und-philips-hue-bridge/) for his tutorial and basis of this script.
@@ -10,9 +17,6 @@ The Idea is pretty simple, instead of sending the extracted color from the enigm
 It only makes 1 rest call per second because the hue bridge is pretty slow, and saving the rest calls you will not get the right color to the tv picture.
 
 
-# Philips did hear us
-They introduced "this" as a standalone package which you can buy for money.It will passthrough your HDMI signals for 4 devices, read the color information there and send it to your hue bridge. Find more infos here:
-[Hue Play HDMI Sync Box](https://www2.meethue.com/de-de/p/hue-play-hdmi-sync-box/8718699704803)
 
 
 ### SEE IT IN ACTION
